@@ -10,6 +10,7 @@ export default defineComponent({});
 
 <style lang="scss">
 @import '@/styles/foo';
+@import 'styles/bar';
 
 .bar {
   background-color: $c;
